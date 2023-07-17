@@ -1,6 +1,6 @@
 # Crowdsourcing the nodulation gene network discovery environment
 
-[BMC Bioinformatics paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1089-3)
+[2016 BMC Bioinformatics paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1089-3)
 
 ## Abstract
 
